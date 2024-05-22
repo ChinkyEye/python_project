@@ -6,3 +6,5 @@ a = "hello"
 b= "world"
 print(a+" "+b)
 print(a, "is of type", type(a))
+
+Print ("a is happeninfg")
