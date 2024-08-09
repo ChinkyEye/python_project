@@ -1,3 +1,5 @@
+import module
+
 def simplefunction():
     print("Welcome to Function topic")
 
@@ -14,3 +16,5 @@ mul_val = mul_data(5,10)
 print(mul_val)
 sum_data(10,20)
 simplefunction()
+
+print(module.add(45,0.5))
